@@ -132,8 +132,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="726" />
-    <option name="width" value="714" />
+    <option name="x" value="1100" />
+    <option name="width" value="340" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -276,7 +276,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557303582425</updated>
       <workItem from="1557303585738" duration="1814000" />
-      <workItem from="1558515347274" duration="2218000" />
+      <workItem from="1558515347274" duration="2637000" />
     </task>
     <servers />
   </component>
@@ -299,15 +299,18 @@
     <history-entry file="edu_ucsd_cse110_tests_in_Project110 - 2019.05.22 at 02h 30m 52s.xml">
       <configuration name="edu.ucsd.cse110.tests in Project110" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cse110_tests_in_Project110 - 2019.05.22 at 02h 32m 55s.xml">
+      <configuration name="edu.ucsd.cse110.tests in Project110" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4032000" />
+    <option name="totallyTimeSpent" value="4451000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="666" y="0" width="774" height="900" extended-state="6" />
+    <frame x="1100" y="0" width="340" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3647541" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.89597315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -316,7 +319,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4988662" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
